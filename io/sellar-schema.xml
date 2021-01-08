@@ -1,0 +1,22 @@
+<sellar>
+  <variables>
+    <variable>
+      <x1/>
+      <y2/>
+      <z1/>
+      <z2/>
+      <y1/>
+    </variable>
+  </variables>
+  <objectives>
+    <objective>
+      <f/>
+    </objective>
+  </objectives>
+  <constraints>
+    <constraint>
+      <g1/>
+      <g2/>
+    </constraint>
+  </constraints>
+</sellar>
