@@ -7,5 +7,6 @@ If you have access to MDAx, you can open the [.mdax](./example/mdax/mdax_Sellar_
 
 Check out the [.html](./example/html/mdax_Sellar_Problem_Opt.html) files to get a better impression of the workflow.
 
+For comments or feedback contact us at [andreas.pagerisueno@dlr.de](mailto:andreas.pagerisueno@dlr.de).
 
 ![Sellar](./static/sellar_xdsm.png "Sellar Workflow")
